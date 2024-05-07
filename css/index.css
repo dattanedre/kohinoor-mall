@@ -4,16 +4,22 @@ body{
 
 
 .img-logo{
-    height: 90px;
-    width: 90px;
+   height: 50px;
+    width: 130px;
+    margin-left: 200px;
 }
 
 .home-1{
     height: 100px;
     width: 100px;
     margin-top: 30px;
+    display: flex;
 }
-.h3{
+.home-img-2{
+    height: 800px;
+    width: 800px;
     
-   
+}
+.home-img2-heading {
+    text-align: center;
 }
